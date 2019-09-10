@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "332910233089",
-    "firebase_url": "https://atonpay-396.firebaseio.com",
-    "project_id": "atonpay-396",
-    "storage_bucket": "atonpay-396.appspot.com"
+    "project_number": "317752332174",
+    "firebase_url": "https://aton-db396.firebaseio.com",
+    "project_id": "aton-db396",
+    "storage_bucket": "aton-db396.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:332910233089:android:ee223b924958a56c",
+        "mobilesdk_app_id": "1:317752332174:android:5fb7472df75c021b77dedf",
         "android_client_info": {
           "package_name": "com.ake.aton"
         }
       },
       "oauth_client": [
         {
-          "client_id": "332910233089-o8lm35nvjqg61ftlsui6c3916bgpgehq.apps.googleusercontent.com",
+          "client_id": "317752332174-qhiapuo982fa946nsvg9q8frcm8av64o.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.ake.aton",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "332910233089-446e7iu1nfhoof3aj8k01uhc0dl5flq7.apps.googleusercontent.com",
+          "client_id": "317752332174-jcedqhfhshfbtepugunnau2jkbglfu3d.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDgwBjbOlLatfakUpPrIKbBERXzKpdPM3k"
+          "current_key": "AIzaSyCcLTyNpV1Iz2xoa-y49jA0F-F7ttZqUvw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "332910233089-446e7iu1nfhoof3aj8k01uhc0dl5flq7.apps.googleusercontent.com",
+              "client_id": "317752332174-jcedqhfhshfbtepugunnau2jkbglfu3d.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

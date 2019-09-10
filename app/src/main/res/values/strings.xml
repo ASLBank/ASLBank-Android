@@ -13,5 +13,6 @@
     <string name="app_Txt_LastName">Apellidos:</string>
     <string name="app_Txt_Cedula">Cedula:</string>
     <string name="app_Txt_Password">Contraseña:</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
 
