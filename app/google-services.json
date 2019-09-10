@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332910233089",
+    "firebase_url": "https://atonpay-396.firebaseio.com",
+    "project_id": "atonpay-396",
+    "storage_bucket": "atonpay-396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332910233089:android:ee223b924958a56c",
+        "android_client_info": {
+          "package_name": "com.ake.aton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332910233089-o8lm35nvjqg61ftlsui6c3916bgpgehq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ake.aton",
+            "certificate_hash": "61bda47593bcd5b53e1eb9b5c95bd1772f249f47"
+          }
+        },
+        {
+          "client_id": "332910233089-446e7iu1nfhoof3aj8k01uhc0dl5flq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgwBjbOlLatfakUpPrIKbBERXzKpdPM3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332910233089-446e7iu1nfhoof3aj8k01uhc0dl5flq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

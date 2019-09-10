@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AtónBank</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="app_Button_Aton"></string>
+    <string name="app_Button_Pagar"></string>
+    <string name="app_Button_Recibir"></string>
+    <string name="app_Button_Siguiente">Next</string>
+    <string name="app_BtnIngresar">LOG IN</string>
+    <string name="app_ButtonIngresar2">LOG IN</string>
+    <string name="app_Button_Registrar">SING UP</string>
+    <string name="app_Button_inputEmail">Email:</string>
+    <string name="app_Txt_Name">Name:</string>
+    <string name="app_Txt_LastName">Last Name:</string>
+    <string name="app_Txt_Cedula">Id Card Number:</string>
+    <string name="app_Txt_Password">Password:</string>
+
+</resources>

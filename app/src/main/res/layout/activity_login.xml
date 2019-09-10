@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Login"
+        android:background="@color/colorPrimaryDark">
+
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="663dp">
+
+                <Button
+                        android:id="@+id/button_Aton2"
+                        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                        android:layout_width="194dp"
+                        android:layout_height="186dp"
+                        android:layout_marginTop="32dp"
+                        android:background="@drawable/logo"
+                        android:backgroundTintMode="src_in"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.497"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                <EditText
+                        android:id="@+id/inputEmail"
+                        style="@android:style/Widget.EditText"
+                        android:layout_width="0dp"
+                        android:layout_height="39dp"
+                        android:layout_marginStart="16dp"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginBottom="40dp"
+                        android:backgroundTint="#F2F2F2"
+                        android:drawableTint="#E4E4E4"
+                        android:ems="10"
+                        android:fontFamily="@font/concert_one"
+                        android:foregroundTint="#F2F2F2"
+                        android:hint="@string/app_Button_inputEmail"
+                        android:inputType="textEmailAddress"
+                        android:lineSpacingExtra="8sp"
+                        android:shadowColor="#F2F2F2"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:textColor="#F2F2F2"
+                        android:textColorHint="#C5C5C5"
+                        android:textSize="18sp"
+                        android:textStyle="normal"
+                        android:visibility="visible"
+                        app:layout_constraintBottom_toTopOf="@+id/buttonIngresar2"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.0"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/button_Aton2"
+                        app:layout_constraintVertical_bias="0.496" />
+
+                <Button
+                        android:id="@+id/buttonIngresar2"
+                        style="@style/Widget.AppCompat.Button.Small"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="56dp"
+                        android:background="@drawable/roundbutton"
+                        android:fontFamily="@font/concert_one"
+                        android:text="@string/app_BtnIngresar"
+                        android:textAlignment="center"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:textColor="#FAF7F7"
+                        android:textSize="24sp"
+                        android:typeface="monospace"
+                        android:visibility="visible"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        tools:visibility="visible" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

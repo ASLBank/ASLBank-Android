@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AtónBank</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="app_Button_Aton"></string>
+    <string name="app_Button_Pagar"></string>
+    <string name="app_Button_Recibir"></string>
+    <string name="app_BtnIngresar">INGRESA</string>
+    <string name="app_ButtonIngresar2">INGRESA</string>
+    <string name="app_Button_Registrar">RGISTRATE</string>
+    <string name="app_Button_Siguiente">SIGUIENTE</string>
+    <string name="app_Button_inputEmail">Correo electronico:</string>
+    <string name="app_Txt_Name"> Tu Nombre:</string>
+    <string name="app_Txt_LastName">Apellidos:</string>
+    <string name="app_Txt_Cedula">Cedula:</string>
+    <string name="app_Txt_Password">Contraseña:</string>
+</resources>
+
